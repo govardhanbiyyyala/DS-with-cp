@@ -84,8 +84,8 @@ class Main {
         DynamicArray Da = new DynamicArray(5); // capacity = 5
 
         Da.append(100);
-        Da.append(200);
-        Da.append(300);
+        Da.append(400);
+        Da.append(600);
         Da.print();
 
         Da.insert(1, 500);
